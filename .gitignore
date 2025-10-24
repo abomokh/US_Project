@@ -1,11 +1,11 @@
-# Audio files
-audio/*.mp3
-audio/*.mp4
-audio/*.wav
-audio/*.m4a
+# # Audio files
+# audio/*.mp3
+# audio/*.mp4
+# audio/*.wav
+# audio/*.m4a
 
-# Transcription outputs
-transcriptions/*.txt
+# # Transcription outputs
+# transcriptions/*.txt
 
 # FFmpeg
 ffmpeg/
